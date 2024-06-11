@@ -1,0 +1,39 @@
+*{
+
+}
+
+
+body{
+    background-color: beige;
+    width: 10%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+h2{
+    color: chocolate;
+    font-size: 32px;
+}
+
+div{
+    background-color: white;
+    border: 2px red solid;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+#spesa{
+    color: blue;
+    font-size: 20px;
+    
+    
+}
+
+#spesaY{
+    color: rgb(255, 0, 179);
+    font-size: 20px;
+    
+    
+}
